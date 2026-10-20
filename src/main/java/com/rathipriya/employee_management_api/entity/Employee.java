@@ -1,3 +1,4 @@
+import jakarta.validation.constraints.NotNull;
 
 package com.rathipriya.employee_management_api.entity;
 
